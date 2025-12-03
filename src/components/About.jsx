@@ -49,16 +49,16 @@ export const About = () => {
 
           <div className="about-content">
             <p className="about-paragraph">
-              I'm an engineering student and developer with a deep interest in how
-              technology, design, and business come together. I love exploring how
-              products are built end-to-end – from the first line of code to the
-              final user experience.
+              As an engineering student and developer, I thrive at the
+              convergence of technology, business strategy, and design. I am
+              passionate about the entire product lifecycle, seeing concepts
+              evolve from underlying logic into intuitive user experiences.
             </p>
             <p className="about-paragraph">
-              I enjoy solving problems, experimenting with new tools, and building
-              interfaces that feel fast, clean, and thoughtful. My goal is to keep
-              learning, keep shipping, and contribute to products that make a real
-              impact.
+              My focus is on crafting efficient, elegant interfaces and
+              leveraging emerging tools to solve complex challenges. Ultimately,
+              I am driven by a desire to continuously evolve, deliver quality
+              software, and build solutions that provide tangible value.
             </p>
 
             <div className="about-education">
@@ -71,7 +71,7 @@ export const About = () => {
         </div>
 
         <div className="about-cards-row">
-          {[ 
+          {[
             {
               icon: "</>",
               title: "Web Development",
