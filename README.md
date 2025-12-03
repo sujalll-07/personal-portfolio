@@ -187,31 +187,4 @@ npm run preview
 
 Open the dev server URL (usually `http://localhost:5173`) to view the portfolio.
 
-## Future Enhancements
-- Integrate a real backend/email service for the contact form.
-- Add more real projects once they are completed.
-- Improve accessibility (ARIA attributes, color contrast checks).
-- Optional theme toggle (light/dark or accent color switch).
 
-<div align="center">
-  <br />
-  <a href="https://youtu.be/KSQOPRea-P4" target="_blank">
-
-  <img width="1280" height="720" alt="Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of 10,000 REACT COMPONENTS (3)" src="https://github.com/user-attachments/assets/44608dad-40be-4a71-ae43-a0a76f1505d8" />
-
-  </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-EmailJS-FF5C83?style=for-the-badge&logo=emailjs&logoColor=white" alt="EmailJS" />
-  </div>
-  <h3 align="center">Craft a Stunning Personal Portfolio with Vite, React & Framer Motion</h3>
-  <div align="center">
-    Follow the full video tutorial on  
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
-</div>
