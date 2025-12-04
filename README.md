@@ -14,9 +14,7 @@ A modern, animated developer portfolio built with **React**, **Vite**, **Framer 
 1. **Access Gate (Riddle Screen)**
    - The first screen is a gate that asks a riddle:
      > I am an odd number. Take one letter away and I become even. What number am I?
-   - Correct answer: **7**.
-   - On correct submission, a success state is shown for ~1 second, then the app transitions to a loading screen.
-
+  
 2. **Loading Experience**
    - A full‑screen loader simulates a boot‑up/progress experience before revealing the main portfolio.
    - After the loader completes, the main app is mounted.
