@@ -49,16 +49,25 @@ export const About = () => {
 
           <div className="about-content">
             <p className="about-paragraph">
-              As an engineering student and developer, I thrive at the
-              convergence of technology, business strategy, and design. I am
-              passionate about the entire product lifecycle, seeing concepts
-              evolve from underlying logic into intuitive user experiences.
+              I’m a developer who cares about one thing: building things that
+              actually work. I don’t hide behind buzzwords or templates — I
+              learn fast, ship fast, and fix what needs fixing. My focus is
+              clean logic, reliable execution, and making products that feel
+              intentional, not accidental.
             </p>
             <p className="about-paragraph">
-              My focus is on crafting efficient, elegant interfaces and
-              leveraging emerging tools to solve complex challenges. Ultimately,
-              I am driven by a desire to continuously evolve, deliver quality
-              software, and build solutions that provide tangible value.
+              I work across frontend and backend, and I pick tools based on what
+              solves the problem, not what’s trendy. Whether it’s designing a
+              smooth interface, structuring an API, or debugging something that
+              shouldn’t even be broken, I approach everything with the same
+              mindset: understand the system, break it down, and deliver
+              something better than what I started with.
+            </p>
+            <p className="about-paragraph">
+              Right now, I’m sharpening my engineering depth and building
+              projects that show real thinking, not just pretty UI. If you want
+              someone who takes ownership, learns aggressively, and doesn’t need
+              hand-holding to get things done — that’s me.
             </p>
 
             <div className="about-education">
