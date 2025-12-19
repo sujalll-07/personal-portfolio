@@ -118,7 +118,7 @@ export const Hero = () => {
             <motion.a href="https://github.com/sujal-2515" target="_blank">
               <i className="fab fa-github"> </i>
             </motion.a>
-            <motion.a href="https://linkedin.com" target="_blank">
+            <motion.a href="https://www.linkedin.com/in/sujal-shetty-34377330a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
               <i className="fab fa-linkedin"> </i>
             </motion.a>
             <motion.a href="https://www.instagram.com/_s.u.j.a.l.__/" target="_blank">
